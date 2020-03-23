@@ -17,10 +17,8 @@ consumes: {
 }
 category: effect
 requirements: [
-  normalsand/10938
-  lead/6250
-  titanium/4688
-  silicon/4688
-  plastanium/1875
+  lead/6
+  titanium/4
+  silicon/4
 ]
-research: infinityoverdriveone
+research: router
